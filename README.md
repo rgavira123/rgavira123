@@ -1,22 +1,15 @@
 
 <h1 align="center"><b>Hi , I'm Ramón</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+Karyouben's+GitHub..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Engineering+Student,;Cybersecurity+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ <h1>About me</h1>
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   🎓 I’m studying Software Engineering at <a href="https://www.us.es" target="_blank">US</a><br>
-  💻 Passionate about Full-Stack Development, with a focus on Back-end<br>
-  🛠️ Experienced with JavaScript, React, Python, and Java<br>
   🔭 Enjoy research and learning in my spare time<br>
-  🛡️ Passionate about Cybersecurity<br>
-  🤖 Enthusiastic about Artificial Intelligence and its potential to transform the future<br>
-  📚 Currently learning advanced Web Development techniques and Computer Vision<br>
+  📚 Currently learning Django... <br>
   🌍 Fluent in Spanish and English
 </p>
 
@@ -27,7 +20,7 @@
  🗣️ Internship opportunities<br>
  💼 Part-time job opportunities
 </ul>
-<p>Feel free to check out <a href="https://read.cv" target="_blank">my resume</a>!</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -130,8 +123,8 @@
   
 <ul>
 <p>
-  <a href="mailto:karyouben@alum.us.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/karim-youssafi-benichikh-104842215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ramgavsan@alum.us.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ramón-gavira-sánchez-8a65a5159/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <br>	
 </ul>
